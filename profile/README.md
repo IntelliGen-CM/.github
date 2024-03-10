@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://firebasestorage.googleapis.com/v0/b/nextgel.appspot.com/o/files%2Fasset%2Fbanner.png?alt=media&token=6aec22bb-032e-4bcc-82ac-818b28d48ea4)
 
 ## IntelliGen: Smart Generator Management with AI
 
@@ -45,10 +45,11 @@ We welcome contributions from the developer community! If you're interested in c
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+| Example Color | ![#25a55f](https://via.placeholder.com/10/0a192f?text=+) #25a55f |
+| Example Color | ![#ffffff](https://via.placeholder.com/10/f8f8f8?text=+) #ffffff |
+| Example Color | ![#1c7b47](https://via.placeholder.com/10/00b48a?text=+) #1c7b47 |
+| Example Color | ![#57d992](https://via.placeholder.com/10/00b48a?text=+) #57d992 |
+| Example Color | ![#e6e6e6](https://via.placeholder.com/10/00b48a?text=+) #e6e6e6 |
 
 
 ## Authors
