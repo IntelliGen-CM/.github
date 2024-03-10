@@ -65,3 +65,4 @@ IntelliGen is a mobile application designed to empower individual owners and bus
 * Support for a variety of user roles and permissions.
 * Continuous improvement driven by user feedback and data analysis.
 * Offline functionality through local data storage and synchronization capabilities.
+![online document](https://docs.google.com/document/d/1izwEkPfadXzPv8B6HtFYQ9C0093rNgkeR31My4uDaXE/edit#heading=h.jg1qy27iljl2)
